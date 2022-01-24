@@ -1,0 +1,15 @@
+@import '../../../assets/Helpers/mixin';
+@import '../../../assets/Helpers/variabler';
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+
+footer{
+    background-color: $Yellow;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: stretch;
+	align-content: space-around;
+    color: $Black;
+    
+}
